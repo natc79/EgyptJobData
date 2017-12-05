@@ -1,0 +1,361 @@
+download_date,region,fregname,totalposts,subregion,fsubregname,subposts
+11292017,Aswan,aswan,3277,Abou Simbel,abou-simbel,25
+11292017,Aswan,aswan,3277,Abou al-Reish,abou-al-reish,54
+11292017,Aswan,aswan,3277,Aswan City,aswan-city,2310
+11292017,Aswan,aswan,3277,Basiliah,basiliah,8
+11292017,Aswan,aswan,3277,Daraw,daraw,73
+11292017,Aswan,aswan,3277,Edfu,edfu,192
+11292017,Aswan,aswan,3277,Kalabsha,kalabsha,37
+11292017,Aswan,aswan,3277,Kom Ombo,kom-ombo,480
+11292017,Aswan,aswan,3277,Nasr al-Noba,nasr-al-noba,42
+11292017,Aswan,aswan,3277,Rdesiah,rdesiah,5
+11292017,Aswan,aswan,3277,Sahara,sahara,34
+11292017,Aswan,aswan,3277,Sebaeiah,sebaeiah,17
+11292017,Asyut,asyut,16210,Abnub,abnub,177
+11292017,Asyut,asyut,16210,Abu Teeg,abu-teeg,196
+11292017,Asyut,asyut,16210,Asyut City,asyut-city,12342
+11292017,Asyut,asyut,16210,Badari,badari,152
+11292017,Asyut,asyut,16210,Dairut,dairut,541
+11292017,Asyut,asyut,16210,Fateh,fateh,81
+11292017,Asyut,asyut,16210,Ghanayem,ghanayem,69
+11292017,Asyut,asyut,16210,Manfalut,manfalut,624
+11292017,Asyut,asyut,16210,New Assiut,new-assiut,1556
+11292017,Asyut,asyut,16210,Qusiya,qusiya,347
+11292017,Asyut,asyut,16210,Sahel Selim,sahel-selim,78
+11292017,Asyut,asyut,16210,Sedfa,sedfa,47
+11292017,Luxor,luxor,3030,Armant,armant,88
+11292017,Luxor,luxor,3030,Bayadeya,bayadeya,38
+11292017,Luxor,luxor,3030,Isna,isna,259
+11292017,Luxor,luxor,3030,Luxor City,luxor-city,2395
+11292017,Luxor,luxor,3030,Qurna,qurna,44
+11292017,Luxor,luxor,3030,Tod,tod,122
+11292017,Luxor,luxor,3030,Zinnia,zinnia,84
+11292017,Alexandria,alexandria,268291,Abu Qir,abu-qir,2806
+11292017,Alexandria,alexandria,268291,Agami,agami,21730
+11292017,Alexandria,alexandria,268291,Al Hadrah,al-hadrah,647
+11292017,Alexandria,alexandria,268291,Al Ibrahimiyyah,al-ibrahimiyyah,2864
+11292017,Alexandria,alexandria,268291,Alexandria,alexandria,129874
+11292017,Alexandria,alexandria,268291,Amreya,amreya,1292
+11292017,Alexandria,alexandria,268291,Asafra,asafra,6541
+11292017,Alexandria,alexandria,268291,Awayed,awayed,2331
+11292017,Alexandria,alexandria,268291,Bacchus,bacchus,1655
+11292017,Alexandria,alexandria,268291,Bolkly,bolkly,1064
+11292017,Alexandria,alexandria,268291,Borg al-Arab,borg-al-arab,5384
+11292017,Alexandria,alexandria,268291,Camp Caesar,camp-caesar,713
+11292017,Alexandria,alexandria,268291,Cleopatra,cleopatra,631
+11292017,Alexandria,alexandria,268291,Dekheila,dekheila,674
+11292017,Alexandria,alexandria,268291,Dhahria,dhahria,1005
+11292017,Alexandria,alexandria,268291,Fleming,fleming,4755
+11292017,Alexandria,alexandria,268291,Glim,glim,1136
+11292017,Alexandria,alexandria,268291,Gomrok,gomrok,794
+11292017,Alexandria,alexandria,268291,Kafr Abdo,kafr-abdo,1735
+11292017,Alexandria,alexandria,268291,Laurent,laurent,4237
+11292017,Alexandria,alexandria,268291,Maamoura,maamoura,2050
+11292017,Alexandria,alexandria,268291,Mandara,mandara,5245
+11292017,Alexandria,alexandria,268291,Manshiyya,manshiyya,574
+11292017,Alexandria,alexandria,268291,Miami,miami,8925
+11292017,Alexandria,alexandria,268291,Moharam Bik,moharam-bik,5670
+11292017,Alexandria,alexandria,268291,Montazah,montazah,890
+11292017,Alexandria,alexandria,268291,Nakheel,nakheel,13488
+11292017,Alexandria,alexandria,268291,Nozha,nozha,820
+11292017,Alexandria,alexandria,268291,Raml Station,raml-station,678
+11292017,Alexandria,alexandria,268291,Saba Pasha,saba-pasha,757
+11292017,Alexandria,alexandria,268291,San Stefano,san-stefano,1486
+11292017,Alexandria,alexandria,268291,Schutz,schutz,1857
+11292017,Alexandria,alexandria,268291,Seyouf,seyouf,5550
+11292017,Alexandria,alexandria,268291,Sidi Beshr,sidi-beshr,10800
+11292017,Alexandria,alexandria,268291,Sidi Gaber,sidi-gaber,2898
+11292017,Alexandria,alexandria,268291,Smoha,smoha,7093
+11292017,Alexandria,alexandria,268291,Sporting,sporting,1024
+11292017,Alexandria,alexandria,268291,Stanley,stanley,1137
+11292017,Alexandria,alexandria,268291,Victoria,victoria,1397
+11292017,Alexandria,alexandria,268291,Wardian,wardian,799
+11292017,Ismailia,ismailia,25431,Abu Swear,abu-swear,102
+11292017,Ismailia,ismailia,25431,Fayed,fayed,946
+11292017,Ismailia,ismailia,25431,Ismailia City,ismailia-city,20859
+11292017,Ismailia,ismailia,25431,Kantara East,kantara-east,281
+11292017,Ismailia,ismailia,25431,Kantara West,kantara-west,372
+11292017,Ismailia,ismailia,25431,Qassaseen,qassaseen,105
+11292017,Ismailia,ismailia,25431,Tal al-Kebeer,tal-al-kebeer,2766
+11292017,Red Sea,red-sea,22583,Hurghada - Gouna,hurghada-gouna,459
+11292017,Red Sea,red-sea,22583,Hurghada - Other,hurghada-other,20665
+11292017,Red Sea,red-sea,22583,Marsa Alam,marsa-alam,146
+11292017,Red Sea,red-sea,22583,Qusair,qusair,153
+11292017,Red Sea,red-sea,22583,Ras Gharib,ras-gharib,232
+11292017,Red Sea,red-sea,22583,Safaga,safaga,377
+11292017,Red Sea,red-sea,22583,Sahl Hasheesh,sahl-hasheesh,547
+11292017,Red Sea,red-sea,22583,Shalateen,shalateen,4
+11292017,Beheira,beheira,12417,Abou Homs,abou-homs,304
+11292017,Beheira,beheira,12417,Abuu al-Matamer,abuu-al-matamer,439
+11292017,Beheira,beheira,12417,Badr,badr,528
+11292017,Beheira,beheira,12417,Damanhour,damanhour,5508
+11292017,Beheira,beheira,12417,Delengat,delengat,235
+11292017,Beheira,beheira,12417,Edko,edko,368
+11292017,Beheira,beheira,12417,Etay al-Barud,etay-al-barud,690
+11292017,Beheira,beheira,12417,Hosh Essa,hosh-essa,206
+11292017,Beheira,beheira,12417,Kafr al-Dawwar,kafr-al-dawwar,1909
+11292017,Beheira,beheira,12417,Kom Hamadah,kom-hamadah,658
+11292017,Beheira,beheira,12417,Mahmoudiyah,mahmoudiyah,177
+11292017,Beheira,beheira,12417,Nubariyah,nubariyah,286
+11292017,Beheira,beheira,12417,Rahmaniya,rahmaniya,57
+11292017,Beheira,beheira,12417,Rashid,rashid,272
+11292017,Beheira,beheira,12417,Shubrakhit,shubrakhit,183
+11292017,Beheira,beheira,12417,Wadi al-Natrun,wadi-al-natrun,597
+11292017,Giza,giza,370207,6th of October,6th-of-october,98123
+11292017,Giza,giza,370207,Abu Rawash,abu-rawash,456
+11292017,Giza,giza,370207,Agouza,agouza,2334
+11292017,Giza,giza,370207,Azizia,azizia,635
+11292017,Giza,giza,370207,Badrasheen,badrasheen,1546
+11292017,Giza,giza,370207,Baragil,baragil,1156
+11292017,Giza,giza,370207,Bashtil,bashtil,853
+11292017,Giza,giza,370207,Boulaq Dakrour,boulaq-dakrour,4236
+11292017,Giza,giza,370207,Dahab Island and Coldair,dahab-island-and-coldair,2807
+11292017,Giza,giza,370207,Dahshur,dahshur,249
+11292017,Giza,giza,370207,Dokki,dokki,11708
+11292017,Giza,giza,370207,Faisal,faisal,27568
+11292017,Giza,giza,370207,Giza District,giza-district,44644
+11292017,Giza,giza,370207,Hadayek al-Ahram,hadayek-al-ahram,17866
+11292017,Giza,giza,370207,Haram,haram,45709
+11292017,Giza,giza,370207,Haraneya,haraneya,285
+11292017,Giza,giza,370207,Hawamdeya,hawamdeya,1598
+11292017,Giza,giza,370207,Imbaba,imbaba,5891
+11292017,Giza,giza,370207,Kafr Tohormos,kafr-tohormos,1342
+11292017,Giza,giza,370207,Kerdasa,kerdasa,749
+11292017,Giza,giza,370207,Kit Kat,kit-kat,293
+11292017,Giza,giza,370207,Mansuriyya,mansuriyya,454
+11292017,Giza,giza,370207,Markaz al-Giza,markaz-al-giza,7556
+11292017,Giza,giza,370207,Maryotaya,maryotaya,942
+11292017,Giza,giza,370207,Mit Oqba,mit-oqba,1044
+11292017,Giza,giza,370207,Mohandessin,mohandessin,22840
+11292017,Giza,giza,370207,Moneeb,moneeb,2335
+11292017,Giza,giza,370207,Nahia,nahia,367
+11292017,Giza,giza,370207,Omrania,omrania,1626
+11292017,Giza,giza,370207,Oseem,oseem,368
+11292017,Giza,giza,370207,Remaia,remaia,1395
+11292017,Giza,giza,370207,Saf,saf,503
+11292017,Giza,giza,370207,Saft,saft,2799
+11292017,Giza,giza,370207,Sahafieen,sahafieen,455
+11292017,Giza,giza,370207,Saqqara,saqqara,137
+11292017,Giza,giza,370207,Sheikh Zayed,sheikh-zayed,32980
+11292017,Giza,giza,370207,Souk al-Ahad,souk-al-ahad,167
+11292017,Giza,giza,370207,Tersa,tersa,13678
+11292017,Giza,giza,370207,Wardan,wardan,119
+11292017,Giza,giza,370207,Warraq,warraq,10150
+11292017,Dakahlia,dakahlia,60295,Aga,aga,775
+11292017,Dakahlia,dakahlia,60295,Akhtab,akhtab,241
+11292017,Dakahlia,dakahlia,60295,Bani Ubayd,bani-ubayd,118
+11292017,Dakahlia,dakahlia,60295,Belqas,belqas,992
+11292017,Dakahlia,dakahlia,60295,Dikirnis,dikirnis,875
+11292017,Dakahlia,dakahlia,60295,Gamaleya,gamaleya,180
+11292017,Dakahlia,dakahlia,60295,Gamasa,gamasa,1042
+11292017,Dakahlia,dakahlia,60295,Mansura,mansura,45951
+11292017,Dakahlia,dakahlia,60295,Manzala,manzala,558
+11292017,Dakahlia,dakahlia,60295,Matareya,matareya,142
+11292017,Dakahlia,dakahlia,60295,Minat al-Nasr,minat-al-nasr,765
+11292017,Dakahlia,dakahlia,60295,Mit Ghamr,mit-ghamr,4124
+11292017,Dakahlia,dakahlia,60295,Mit Slseel,mit-slseel,50
+11292017,Dakahlia,dakahlia,60295,Nabaruh,nabaruh,255
+11292017,Dakahlia,dakahlia,60295,Shirbin,shirbin,1250
+11292017,Dakahlia,dakahlia,60295,Sinbillawain,sinbillawain,1307
+11292017,Dakahlia,dakahlia,60295,Talkha,talkha,1538
+11292017,Dakahlia,dakahlia,60295,Tama al-Amdeed,tama-al-amdeed,132
+11292017,Suez,suez,48376,Ain Sukhna,ain-sukhna,34615
+11292017,Suez,suez,48376,Arbaeen,arbaeen,439
+11292017,Suez,suez,48376,Attaka,attaka,326
+11292017,Suez,suez,48376,Faisal,faisal,454
+11292017,Suez,suez,48376,Ganayen,ganayen,177
+11292017,Suez,suez,48376,Suez District,suez-district,12365
+11292017,Sharqia,sharqia,48685,10th of Ramadan,10th-of-ramadan,13244
+11292017,Sharqia,sharqia,48685,Abu Hammad,abu-hammad,1117
+11292017,Sharqia,sharqia,48685,Abu Kabir,abu-kabir,761
+11292017,Sharqia,sharqia,48685,Alqnayat,alqnayat,173
+11292017,Sharqia,sharqia,48685,Awlad Saqr,awlad-saqr,385
+11292017,Sharqia,sharqia,48685,Bilbeis,bilbeis,2017
+11292017,Sharqia,sharqia,48685,Deyerb Negm,deyerb-negm,1042
+11292017,Sharqia,sharqia,48685,Faqous,faqous,1815
+11292017,Sharqia,sharqia,48685,Hihya,hihya,547
+11292017,Sharqia,sharqia,48685,Husseiniya,husseiniya,498
+11292017,Sharqia,sharqia,48685,Ibrahemyah,ibrahemyah,362
+11292017,Sharqia,sharqia,48685,Kafr Saqr,kafr-saqr,815
+11292017,Sharqia,sharqia,48685,Mashtool al-Souk,mashtool-al-souk,334
+11292017,Sharqia,sharqia,48685,Minya al-Qamh,minya-al-qamh,1685
+11292017,Sharqia,sharqia,48685,New Salhia,new-salhia,281
+11292017,Sharqia,sharqia,48685,Qareen,qareen,133
+11292017,Sharqia,sharqia,48685,Zagazig,zagazig,23476
+11292017,Gharbia,gharbia,44023,Basyoun,basyoun,408
+11292017,Gharbia,gharbia,44023,Kafr al-Zayat,kafr-al-zayat,1138
+11292017,Gharbia,gharbia,44023,Mahalla al-Kobra,mahalla-al-kobra,11314
+11292017,Gharbia,gharbia,44023,Qutour,qutour,568
+11292017,Gharbia,gharbia,44023,Samanoud,samanoud,750
+11292017,Gharbia,gharbia,44023,Santa,santa,475
+11292017,Gharbia,gharbia,44023,Tanta,tanta,28290
+11292017,Gharbia,gharbia,44023,Zefta,zefta,1080
+11292017,Fayoum,fayoum,15651,Atssa,atssa,984
+11292017,Fayoum,fayoum,15651,Fayoum City,fayoum-city,9036
+11292017,Fayoum,fayoum,15651,Ibshway,ibshway,123
+11292017,Fayoum,fayoum,15651,New Fayoum,new-fayoum,3483
+11292017,Fayoum,fayoum,15651,Sinnuras,sinnuras,130
+11292017,Fayoum,fayoum,15651,Tamiya,tamiya,818
+11292017,Fayoum,fayoum,15651,Yusuf al-Sadiq,yusuf-al-sadiq,1077
+11292017,Cairo,cairo,842282,10th Ramadan City,10th-ramadan-city,2476
+11292017,Cairo,cairo,842282,15 May City,15-may-city,3212
+11292017,Cairo,cairo,842282,Abasiya,abasiya,3555
+11292017,Cairo,cairo,842282,Ain Shams,ain-shams,28681
+11292017,Cairo,cairo,842282,Al Manial,al-manial,2491
+11292017,Cairo,cairo,842282,Badr City,badr-city,8180
+11292017,Cairo,cairo,842282,Cairo - Other,cairo-other,144523
+11292017,Cairo,cairo,842282,Dar al-Salaam,dar-al-salaam,7153
+11292017,Cairo,cairo,842282,Downtown Cairo,downtown-cairo,38306
+11292017,Cairo,cairo,842282,Hadayek Helwan,hadayek-helwan,5699
+11292017,Cairo,cairo,842282,Hadayek al-Kobba,hadayek-al-kobba,8816
+11292017,Cairo,cairo,842282,Heliopolis,heliopolis,43614
+11292017,Cairo,cairo,842282,Helmeya,helmeya,3481
+11292017,Cairo,cairo,842282,Helwan,helwan,20627
+11292017,Cairo,cairo,842282,Izbat an Nakhl,izbat-an-nakhl,2576
+11292017,Cairo,cairo,842282,Maadi,maadi,51374
+11292017,Cairo,cairo,842282,Madinaty,madinaty,19290
+11292017,Cairo,cairo,842282,Marg,marg,10114
+11292017,Cairo,cairo,842282,Matareya,matareya,5754
+11292017,Cairo,cairo,842282,Mokattam,mokattam,14930
+11292017,Cairo,cairo,842282,Nasr City,nasr-city,93349
+11292017,Cairo,cairo,842282,New Cairo - Fifth Settlement,new-cairo-fifth-settlement,76830
+11292017,Cairo,cairo,842282,New Cairo - First Settlement,new-cairo-first-settlement,8035
+11292017,Cairo,cairo,842282,New Cairo - Other,new-cairo-other,72530
+11292017,Cairo,cairo,842282,New Cairo - Rehab City,new-cairo-rehab-city,20321
+11292017,Cairo,cairo,842282,Nozha,nozha,7078
+11292017,Cairo,cairo,842282,Obour City,obour-city,12683
+11292017,Cairo,cairo,842282,Qasr al-Nil,qasr-al-nil,2742
+11292017,Cairo,cairo,842282,Ramses + Ramses Extension,ramses-ramses-extension,2254
+11292017,Cairo,cairo,842282,Sahel,sahel,6498
+11292017,Cairo,cairo,842282,Salam City,salam-city,8144
+11292017,Cairo,cairo,842282,Sayeda Zeinab,sayeda-zeinab,2616
+11292017,Cairo,cairo,842282,Sheraton,sheraton,10185
+11292017,Cairo,cairo,842282,Shorouk City,shorouk-city,21603
+11292017,Cairo,cairo,842282,Shubra,shubra,13374
+11292017,Cairo,cairo,842282,Waili,waili,3238
+11292017,Cairo,cairo,842282,Zahraa Al Maadi,zahraa-al-maadi,6224
+11292017,Cairo,cairo,842282,Zamalek,zamalek,3726
+11292017,Cairo,cairo,842282,Zaytoun,zaytoun,9205
+11292017,Qalyubia,qalyubia,51662,Bahtim,bahtim,1227
+11292017,Qalyubia,qalyubia,51662,Banha,banha,7756
+11292017,Qalyubia,qalyubia,51662,El Ubour,el-ubour,16659
+11292017,Qalyubia,qalyubia,51662,Kafr Shukr,kafr-shukr,412
+11292017,Qalyubia,qalyubia,51662,Khanka,khanka,2250
+11292017,Qalyubia,qalyubia,51662,Khosous,khosous,3905
+11292017,Qalyubia,qalyubia,51662,Qaha,qaha,239
+11292017,Qalyubia,qalyubia,51662,Qalyub,qalyub,1928
+11292017,Qalyubia,qalyubia,51662,Qanater al-Khairia,qanater-al-khairia,2487
+11292017,Qalyubia,qalyubia,51662,Shebin al-Qanater,shebin-al-qanater,1373
+11292017,Qalyubia,qalyubia,51662,Shubra al-Khaimah,shubra-al-khaimah,10426
+11292017,Qalyubia,qalyubia,51662,Tookh,tookh,3000
+11292017,Monufia,monufia,19155,Ashmon,ashmon,786
+11292017,Monufia,monufia,19155,Bagour,bagour,1099
+11292017,Monufia,monufia,19155,Berket al-Sabaa,berket-al-sabaa,763
+11292017,Monufia,monufia,19155,Menouf,menouf,1479
+11292017,Monufia,monufia,19155,Mit El Ezz,mit-el-ezz,18
+11292017,Monufia,monufia,19155,Quesna,quesna,1791
+11292017,Monufia,monufia,19155,Sadat,sadat,1765
+11292017,Monufia,monufia,19155,Sers al-Lyan,sers-al-lyan,300
+11292017,Monufia,monufia,19155,Shebin al-Koum,shebin-al-koum,8163
+11292017,Monufia,monufia,19155,Shohadaa,shohadaa,2440
+11292017,Monufia,monufia,19155,Tala,tala,551
+11292017,Minya,minya,9229,Abu Qurqas,abu-qurqas,309
+11292017,Minya,minya,9229,Adwa,adwa,173
+11292017,Minya,minya,9229,Beni Mazar,beni-mazar,420
+11292017,Minya,minya,9229,Deir Mawas,deir-mawas,109
+11292017,Minya,minya,9229,Maghagha,maghagha,376
+11292017,Minya,minya,9229,Malawi,malawi,638
+11292017,Minya,minya,9229,Matay,matay,329
+11292017,Minya,minya,9229,Minya City,minya-city,5644
+11292017,Minya,minya,9229,New Minya,new-minya,819
+11292017,Minya,minya,9229,Samalut,samalut,412
+11292017,New Valley,new-valley,367,Balat,balat,9
+11292017,New Valley,new-valley,367,Dakhla,dakhla,31
+11292017,New Valley,new-valley,367,Farafra,farafra,48
+11292017,New Valley,new-valley,367,Kharga,kharga,236
+11292017,New Valley,new-valley,367,Mut,mut,42
+11292017,New Valley,new-valley,367,Paris,paris,1
+11292017,Beni Suef,beni-suef,7274,Al Feshn,al-feshn,236
+11292017,Beni Suef,beni-suef,7274,Al Wasty,al-wasty,569
+11292017,Beni Suef,beni-suef,7274,Beba,beba,192
+11292017,Beni Suef,beni-suef,7274,Beni Suef City,beni-suef-city,3777
+11292017,Beni Suef,beni-suef,7274,Ehnasia,ehnasia,137
+11292017,Beni Suef,beni-suef,7274,Nasser,nasser,185
+11292017,Beni Suef,beni-suef,7274,New Beni Suef,new-beni-suef,1989
+11292017,Beni Suef,beni-suef,7274,Samasta,samasta,189
+11292017,Port Said,port-said,20527,Arab District,arab-district,618
+11292017,Port Said,port-said,20527,Dawahy District,dawahy-district,1966
+11292017,Port Said,port-said,20527,Ganoub District,ganoub-district,1320
+11292017,Port Said,port-said,20527,Manakh District,manakh-district,756
+11292017,Port Said,port-said,20527,Port Fouad,port-fouad,6747
+11292017,Port Said,port-said,20527,Sharq District,sharq-district,7564
+11292017,Port Said,port-said,20527,Zohour District,zohour-district,1556
+11292017,South Sinai,south-sinai,8526,Abu Rudeis,abu-rudeis,21
+11292017,South Sinai,south-sinai,8526,Abu Zenimah,abu-zenimah,17
+11292017,South Sinai,south-sinai,8526,Dahab,dahab,101
+11292017,South Sinai,south-sinai,8526,Nuweiba,nuweiba,24
+11292017,South Sinai,south-sinai,8526,Ras Sedr,ras-sedr,2654
+11292017,South Sinai,south-sinai,8526,Ras Sidr,ras-sidr,2076
+11292017,South Sinai,south-sinai,8526,Sharm al-Sheikh,sharm-al-sheikh,3370
+11292017,South Sinai,south-sinai,8526,St. Catherine,st-catherine,4
+11292017,South Sinai,south-sinai,8526,Taba,taba,8
+11292017,South Sinai,south-sinai,8526,Tor Sinai,tor-sinai,251
+11292017,Damietta,damietta,17784,Damietta City,damietta-city,9104
+11292017,Damietta,damietta,17784,Ezbet al-Burj,ezbet-al-burj,70
+11292017,Damietta,damietta,17784,Fareskour,fareskour,329
+11292017,Damietta,damietta,17784,Kafr Saad,kafr-saad,1090
+11292017,Damietta,damietta,17784,Kafr al-Bateekh,kafr-al-bateekh,131
+11292017,Damietta,damietta,17784,Mit Abughalb,mit-abughalb,90
+11292017,Damietta,damietta,17784,New Damietta,new-damietta,5665
+11292017,Damietta,damietta,17784,Ras al-Bar,ras-al-bar,949
+11292017,Damietta,damietta,17784,Rodah,rodah,34
+11292017,Damietta,damietta,17784,Saro,saro,65
+11292017,Damietta,damietta,17784,Zarqa,zarqa,257
+11292017,Sohag,sohag,8723,Akhmim,akhmim,298
+11292017,Sohag,sohag,8723,Alasirat,alasirat,18
+11292017,Sohag,sohag,8723,Baliana,baliana,148
+11292017,Sohag,sohag,8723,Dar es-Salam,dar-es-salam,72
+11292017,Sohag,sohag,8723,Girga,girga,524
+11292017,Sohag,sohag,8723,Juhaynah,juhaynah,66
+11292017,Sohag,sohag,8723,Maragha,maragha,135
+11292017,Sohag,sohag,8723,Monsha'a,monsha-a,429
+11292017,Sohag,sohag,8723,Sakaltah,sakaltah,39
+11292017,Sohag,sohag,8723,Sohag City,sohag-city,6322
+11292017,Sohag,sohag,8723,Tahta,tahta,437
+11292017,Sohag,sohag,8723,Tama,tama,235
+11292017,North Sinai,north-sinai,668,Arish,arish,560
+11292017,North Sinai,north-sinai,668,Bir al-Abed,bir-al-abed,50
+11292017,North Sinai,north-sinai,668,Hasana,hasana,6
+11292017,North Sinai,north-sinai,668,Nakhl,nakhl,2
+11292017,North Sinai,north-sinai,668,Rafah,rafah,1
+11292017,North Sinai,north-sinai,668,Sheikh Zoweyd,sheikh-zoweyd,49
+11292017,Qena,qena,6908,Abu Tisht,abu-tisht,206
+11292017,Qena,qena,6908,Farshout,farshout,106
+11292017,Qena,qena,6908,Keft,keft,125
+11292017,Qena,qena,6908,Nag Hammadi,nag-hammadi,1012
+11292017,Qena,qena,6908,Nakada,nakada,91
+11292017,Qena,qena,6908,Qena City,qena-city,4970
+11292017,Qena,qena,6908,Quos,quos,265
+11292017,Qena,qena,6908,Shna,shna,32
+11292017,Qena,qena,6908,Wakf,wakf,101
+11292017,Kafr al-Sheikh,kafr-al-sheikh,8432,Baltim,baltim,480
+11292017,Kafr al-Sheikh,kafr-al-sheikh,8432,Bella,bella,376
+11292017,Kafr al-Sheikh,kafr-al-sheikh,8432,Brolos,brolos,95
+11292017,Kafr al-Sheikh,kafr-al-sheikh,8432,Desouk,desouk,1132
+11292017,Kafr al-Sheikh,kafr-al-sheikh,8432,Fouh,fouh,140
+11292017,Kafr al-Sheikh,kafr-al-sheikh,8432,Hamoul,hamoul,346
+11292017,Kafr al-Sheikh,kafr-al-sheikh,8432,Kafr al-Sheikh City,kafr-al-sheikh-city,5106
+11292017,Kafr al-Sheikh,kafr-al-sheikh,8432,Motobas,motobas,104
+11292017,Kafr al-Sheikh,kafr-al-sheikh,8432,Qaleen,qaleen,243
+11292017,Kafr al-Sheikh,kafr-al-sheikh,8432,Riyadh,riyadh,186
+11292017,Kafr al-Sheikh,kafr-al-sheikh,8432,Sidi Salem,sidi-salem,224
+11292017,Matruh,matruh,48356,Alamein,alamein,1331
+11292017,Matruh,matruh,48356,Barany,barany,5
+11292017,Matruh,matruh,48356,Dabaa,dabaa,38
+11292017,Matruh,matruh,48356,Hammam,hammam,307
+11292017,Matruh,matruh,48356,Marina El Alamein,marina-el-alamein,837
+11292017,Matruh,matruh,48356,Marsa Matrouh,marsa-matrouh,6389
+11292017,Matruh,matruh,48356,Nagela,nagela,84
+11292017,Matruh,matruh,48356,North Coast,north-coast,39140
+11292017,Matruh,matruh,48356,Salloum,salloum,4
+11292017,Matruh,matruh,48356,Siwa,siwa,221

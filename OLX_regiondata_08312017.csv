@@ -1,0 +1,359 @@
+download_date,region,fregname,totalposts,subregion,fsubregname,subposts
+08312017,Aswan,aswan,3133,Abou Simbel,abou-simbel,13
+08312017,Aswan,aswan,3133,Abou al-Reish,abou-al-reish,72
+08312017,Aswan,aswan,3133,Aswan City,aswan-city,2251
+08312017,Aswan,aswan,3133,Basiliah,basiliah,12
+08312017,Aswan,aswan,3133,Daraw,daraw,43
+08312017,Aswan,aswan,3133,Edfu,edfu,224
+08312017,Aswan,aswan,3133,Kalabsha,kalabsha,15
+08312017,Aswan,aswan,3133,Kom Ombo,kom-ombo,397
+08312017,Aswan,aswan,3133,Nasr al-Noba,nasr-al-noba,37
+08312017,Aswan,aswan,3133,Rdesiah,rdesiah,8
+08312017,Aswan,aswan,3133,Sahara,sahara,44
+08312017,Aswan,aswan,3133,Sebaeiah,sebaeiah,17
+08312017,Asyut,asyut,15012,Abnub,abnub,137
+08312017,Asyut,asyut,15012,Abu Teeg,abu-teeg,223
+08312017,Asyut,asyut,15012,Asyut City,asyut-city,12377
+08312017,Asyut,asyut,15012,Badari,badari,148
+08312017,Asyut,asyut,15012,Dairut,dairut,471
+08312017,Asyut,asyut,15012,Fateh,fateh,99
+08312017,Asyut,asyut,15012,Ghanayem,ghanayem,85
+08312017,Asyut,asyut,15012,Manfalut,manfalut,467
+08312017,Asyut,asyut,15012,New Assiut,new-assiut,512
+08312017,Asyut,asyut,15012,Qusiya,qusiya,337
+08312017,Asyut,asyut,15012,Sahel Selim,sahel-selim,108
+08312017,Asyut,asyut,15012,Sedfa,sedfa,48
+08312017,Luxor,luxor,2968,Armant,armant,92
+08312017,Luxor,luxor,2968,Bayadeya,bayadeya,46
+08312017,Luxor,luxor,2968,Isna,isna,247
+08312017,Luxor,luxor,2968,Luxor City,luxor-city,2359
+08312017,Luxor,luxor,2968,Qurna,qurna,52
+08312017,Luxor,luxor,2968,Tod,tod,87
+08312017,Luxor,luxor,2968,Zinnia,zinnia,85
+08312017,Alexandria,alexandria,270064,Abu Qir,abu-qir,2507
+08312017,Alexandria,alexandria,270064,Agami,agami,22595
+08312017,Alexandria,alexandria,270064,Al Hadrah,al-hadrah,620
+08312017,Alexandria,alexandria,270064,Al Ibrahimiyyah,al-ibrahimiyyah,2594
+08312017,Alexandria,alexandria,270064,Alexandria,alexandria,134689
+08312017,Alexandria,alexandria,270064,Amreya,amreya,1165
+08312017,Alexandria,alexandria,270064,Asafra,asafra,6480
+08312017,Alexandria,alexandria,270064,Awayed,awayed,2357
+08312017,Alexandria,alexandria,270064,Bacchus,bacchus,1446
+08312017,Alexandria,alexandria,270064,Bolkly,bolkly,974
+08312017,Alexandria,alexandria,270064,Borg al-Arab,borg-al-arab,5013
+08312017,Alexandria,alexandria,270064,Camp Caesar,camp-caesar,701
+08312017,Alexandria,alexandria,270064,Cleopatra,cleopatra,679
+08312017,Alexandria,alexandria,270064,Dekheila,dekheila,663
+08312017,Alexandria,alexandria,270064,Dhahria,dhahria,1038
+08312017,Alexandria,alexandria,270064,Fleming,fleming,4395
+08312017,Alexandria,alexandria,270064,Glim,glim,1172
+08312017,Alexandria,alexandria,270064,Gomrok,gomrok,836
+08312017,Alexandria,alexandria,270064,Kafr Abdo,kafr-abdo,2093
+08312017,Alexandria,alexandria,270064,Laurent,laurent,4128
+08312017,Alexandria,alexandria,270064,Maamoura,maamoura,2089
+08312017,Alexandria,alexandria,270064,Mandara,mandara,4954
+08312017,Alexandria,alexandria,270064,Miami,miami,8672
+08312017,Alexandria,alexandria,270064,Moharam Bik,moharam-bik,6161
+08312017,Alexandria,alexandria,270064,Montazah,montazah,2165
+08312017,Alexandria,alexandria,270064,Nakheel,nakheel,10715
+08312017,Alexandria,alexandria,270064,Nozha,nozha,590
+08312017,Alexandria,alexandria,270064,Raml Station,raml-station,688
+08312017,Alexandria,alexandria,270064,Saba Pasha,saba-pasha,677
+08312017,Alexandria,alexandria,270064,San Stefano,san-stefano,1583
+08312017,Alexandria,alexandria,270064,Schutz,schutz,1904
+08312017,Alexandria,alexandria,270064,Seyouf,seyouf,5227
+08312017,Alexandria,alexandria,270064,Sidi Beshr,sidi-beshr,10651
+08312017,Alexandria,alexandria,270064,Sidi Gaber,sidi-gaber,2766
+08312017,Alexandria,alexandria,270064,Smoha,smoha,7256
+08312017,Alexandria,alexandria,270064,Sporting,sporting,878
+08312017,Alexandria,alexandria,270064,Stanley,stanley,1063
+08312017,Alexandria,alexandria,270064,Victoria,victoria,1317
+08312017,Alexandria,alexandria,270064,Wardian,wardian,699
+08312017,Alexandria,alexandria,270064,Zezenia,zezenia,570
+08312017,Ismailia,ismailia,22947,Abu Swear,abu-swear,88
+08312017,Ismailia,ismailia,22947,Fayed,fayed,533
+08312017,Ismailia,ismailia,22947,Ismailia City,ismailia-city,19153
+08312017,Ismailia,ismailia,22947,Kantara East,kantara-east,239
+08312017,Ismailia,ismailia,22947,Kantara West,kantara-west,337
+08312017,Ismailia,ismailia,22947,Qassaseen,qassaseen,140
+08312017,Ismailia,ismailia,22947,Tal al-Kebeer,tal-al-kebeer,2457
+08312017,Red Sea,red-sea,22071,Hurghada,hurghada,20646
+08312017,Red Sea,red-sea,22071,Marsa Alam,marsa-alam,195
+08312017,Red Sea,red-sea,22071,Qusair,qusair,129
+08312017,Red Sea,red-sea,22071,Ras Gharib,ras-gharib,209
+08312017,Red Sea,red-sea,22071,Safaga,safaga,381
+08312017,Red Sea,red-sea,22071,Sahl Hasheesh,sahl-hasheesh,509
+08312017,Red Sea,red-sea,22071,Shalateen,shalateen,2
+08312017,Beheira,beheira,11294,Abou Homs,abou-homs,255
+08312017,Beheira,beheira,11294,Abuu al-Matamer,abuu-al-matamer,339
+08312017,Beheira,beheira,11294,Badr,badr,491
+08312017,Beheira,beheira,11294,Damanhour,damanhour,4927
+08312017,Beheira,beheira,11294,Delengat,delengat,256
+08312017,Beheira,beheira,11294,Edko,edko,320
+08312017,Beheira,beheira,11294,Etay al-Barud,etay-al-barud,696
+08312017,Beheira,beheira,11294,Hosh Essa,hosh-essa,234
+08312017,Beheira,beheira,11294,Kafr al-Dawwar,kafr-al-dawwar,1779
+08312017,Beheira,beheira,11294,Kom Hamadah,kom-hamadah,531
+08312017,Beheira,beheira,11294,Mahmoudiyah,mahmoudiyah,189
+08312017,Beheira,beheira,11294,Nubariyah,nubariyah,260
+08312017,Beheira,beheira,11294,Rahmaniya,rahmaniya,58
+08312017,Beheira,beheira,11294,Rashid,rashid,272
+08312017,Beheira,beheira,11294,Shubrakhit,shubrakhit,194
+08312017,Beheira,beheira,11294,Wadi al-Natrun,wadi-al-natrun,493
+08312017,Giza,giza,355496,6th of October,6th-of-october,94832
+08312017,Giza,giza,355496,Abu Rawash,abu-rawash,407
+08312017,Giza,giza,355496,Agouza,agouza,2367
+08312017,Giza,giza,355496,Azizia,azizia,588
+08312017,Giza,giza,355496,Badrasheen,badrasheen,1291
+08312017,Giza,giza,355496,Baragil,baragil,968
+08312017,Giza,giza,355496,Bashtil,bashtil,802
+08312017,Giza,giza,355496,Boulaq Dakrour,boulaq-dakrour,4213
+08312017,Giza,giza,355496,Dahab Island and Coldair,dahab-island-and-coldair,2753
+08312017,Giza,giza,355496,Dahshur,dahshur,278
+08312017,Giza,giza,355496,Dokki,dokki,10344
+08312017,Giza,giza,355496,Faisal,faisal,27496
+08312017,Giza,giza,355496,Giza District,giza-district,44793
+08312017,Giza,giza,355496,Hadayek al-Ahram,hadayek-al-ahram,15597
+08312017,Giza,giza,355496,Haram,haram,45963
+08312017,Giza,giza,355496,Haraneya,haraneya,255
+08312017,Giza,giza,355496,Hawamdeya,hawamdeya,1418
+08312017,Giza,giza,355496,Imbaba,imbaba,5310
+08312017,Giza,giza,355496,Kafr Tohormos,kafr-tohormos,1302
+08312017,Giza,giza,355496,Kerdasa,kerdasa,691
+08312017,Giza,giza,355496,Kit Kat,kit-kat,335
+08312017,Giza,giza,355496,Mansuriyya,mansuriyya,556
+08312017,Giza,giza,355496,Markaz al-Giza,markaz-al-giza,6896
+08312017,Giza,giza,355496,Maryotaya,maryotaya,886
+08312017,Giza,giza,355496,Mit Oqba,mit-oqba,929
+08312017,Giza,giza,355496,Mohandessin,mohandessin,20792
+08312017,Giza,giza,355496,Moneeb,moneeb,2184
+08312017,Giza,giza,355496,Nahia,nahia,328
+08312017,Giza,giza,355496,Omrania,omrania,1566
+08312017,Giza,giza,355496,Oseem,oseem,370
+08312017,Giza,giza,355496,Pharaonic Village,pharaonic-village,114
+08312017,Giza,giza,355496,Remaia,remaia,1318
+08312017,Giza,giza,355496,Saf,saf,459
+08312017,Giza,giza,355496,Saft,saft,2549
+08312017,Giza,giza,355496,Sahafieen,sahafieen,416
+08312017,Giza,giza,355496,Saqqara,saqqara,134
+08312017,Giza,giza,355496,Sheikh Zayed,sheikh-zayed,30992
+08312017,Giza,giza,355496,Souk al-Ahad,souk-al-ahad,180
+08312017,Giza,giza,355496,Tersa,tersa,13025
+08312017,Giza,giza,355496,Warraq,warraq,9578
+08312017,Dakahlia,dakahlia,55918,Aga,aga,712
+08312017,Dakahlia,dakahlia,55918,Akhtab,akhtab,160
+08312017,Dakahlia,dakahlia,55918,Bani Ubayd,bani-ubayd,96
+08312017,Dakahlia,dakahlia,55918,Belqas,belqas,905
+08312017,Dakahlia,dakahlia,55918,Dikirnis,dikirnis,794
+08312017,Dakahlia,dakahlia,55918,Gamaleya,gamaleya,165
+08312017,Dakahlia,dakahlia,55918,Gamasa,gamasa,944
+08312017,Dakahlia,dakahlia,55918,Mansura,mansura,42809
+08312017,Dakahlia,dakahlia,55918,Manzala,manzala,491
+08312017,Dakahlia,dakahlia,55918,Matareya,matareya,149
+08312017,Dakahlia,dakahlia,55918,Minat al-Nasr,minat-al-nasr,797
+08312017,Dakahlia,dakahlia,55918,Mit Ghamr,mit-ghamr,3691
+08312017,Dakahlia,dakahlia,55918,Mit Slseel,mit-slseel,42
+08312017,Dakahlia,dakahlia,55918,Nabaruh,nabaruh,200
+08312017,Dakahlia,dakahlia,55918,Shirbin,shirbin,968
+08312017,Dakahlia,dakahlia,55918,Sinbillawain,sinbillawain,1299
+08312017,Dakahlia,dakahlia,55918,Talkha,talkha,1560
+08312017,Dakahlia,dakahlia,55918,Tama al-Amdeed,tama-al-amdeed,136
+08312017,Suez,suez,44577,Ain Sukhna,ain-sukhna,30954
+08312017,Suez,suez,44577,Arbaeen,arbaeen,457
+08312017,Suez,suez,44577,Attaka,attaka,347
+08312017,Suez,suez,44577,Faisal,faisal,460
+08312017,Suez,suez,44577,Ganayen,ganayen,112
+08312017,Suez,suez,44577,Suez District,suez-district,12247
+08312017,Sharqia,sharqia,45671,10th of Ramadan,10th-of-ramadan,12209
+08312017,Sharqia,sharqia,45671,Abu Hammad,abu-hammad,1075
+08312017,Sharqia,sharqia,45671,Abu Kabir,abu-kabir,689
+08312017,Sharqia,sharqia,45671,Alqnayat,alqnayat,169
+08312017,Sharqia,sharqia,45671,Awlad Saqr,awlad-saqr,331
+08312017,Sharqia,sharqia,45671,Bilbeis,bilbeis,2024
+08312017,Sharqia,sharqia,45671,Deyerb Negm,deyerb-negm,1031
+08312017,Sharqia,sharqia,45671,Faqous,faqous,1709
+08312017,Sharqia,sharqia,45671,Hihya,hihya,447
+08312017,Sharqia,sharqia,45671,Husseiniya,husseiniya,472
+08312017,Sharqia,sharqia,45671,Ibrahemyah,ibrahemyah,367
+08312017,Sharqia,sharqia,45671,Kafr Saqr,kafr-saqr,699
+08312017,Sharqia,sharqia,45671,Mashtool al-Souk,mashtool-al-souk,342
+08312017,Sharqia,sharqia,45671,Minya al-Qamh,minya-al-qamh,1546
+08312017,Sharqia,sharqia,45671,New Salhia,new-salhia,236
+08312017,Sharqia,sharqia,45671,Qareen,qareen,100
+08312017,Sharqia,sharqia,45671,Zagazig,zagazig,22225
+08312017,Gharbia,gharbia,41702,Basyoun,basyoun,403
+08312017,Gharbia,gharbia,41702,Kafr al-Zayat,kafr-al-zayat,1101
+08312017,Gharbia,gharbia,41702,Mahalla al-Kobra,mahalla-al-kobra,10920
+08312017,Gharbia,gharbia,41702,Qutour,qutour,502
+08312017,Gharbia,gharbia,41702,Samanoud,samanoud,624
+08312017,Gharbia,gharbia,41702,Santa,santa,453
+08312017,Gharbia,gharbia,41702,Tanta,tanta,26664
+08312017,Gharbia,gharbia,41702,Zefta,zefta,1035
+08312017,Fayoum,fayoum,13507,Atssa,atssa,898
+08312017,Fayoum,fayoum,13507,Fayoum City,fayoum-city,7873
+08312017,Fayoum,fayoum,13507,Ibshway,ibshway,154
+08312017,Fayoum,fayoum,13507,New Fayoum,new-fayoum,2528
+08312017,Fayoum,fayoum,13507,Sinnuras,sinnuras,150
+08312017,Fayoum,fayoum,13507,Tamiya,tamiya,981
+08312017,Fayoum,fayoum,13507,Yusuf al-Sadiq,yusuf-al-sadiq,923
+08312017,Cairo,cairo,795196,10th Ramadan City,10th-ramadan-city,2309
+08312017,Cairo,cairo,795196,15 May City,15-may-city,3872
+08312017,Cairo,cairo,795196,Abasiya,abasiya,3672
+08312017,Cairo,cairo,795196,Ain Shams,ain-shams,28793
+08312017,Cairo,cairo,795196,Al Manial,al-manial,2457
+08312017,Cairo,cairo,795196,Badr City,badr-city,7320
+08312017,Cairo,cairo,795196,Cairo,cairo,37695
+08312017,Cairo,cairo,795196,Dar al-Salaam,dar-al-salaam,6845
+08312017,Cairo,cairo,795196,Downtown Cairo,downtown-cairo,37783
+08312017,Cairo,cairo,795196,Fifth Settlement,fifth-settlement,67008
+08312017,Cairo,cairo,795196,First Settlement,first-settlement,4134
+08312017,Cairo,cairo,795196,Hadayek Helwan,hadayek-helwan,5237
+08312017,Cairo,cairo,795196,Hadayek al-Kobba,hadayek-al-kobba,8171
+08312017,Cairo,cairo,795196,Heliopolis,heliopolis,38111
+08312017,Cairo,cairo,795196,Helmeya,helmeya,3187
+08312017,Cairo,cairo,795196,Helwan,helwan,19263
+08312017,Cairo,cairo,795196,Izbat an Nakhl,izbat-an-nakhl,3032
+08312017,Cairo,cairo,795196,Maadi,maadi,49342
+08312017,Cairo,cairo,795196,Madinaty,madinaty,15842
+08312017,Cairo,cairo,795196,Marg,marg,9358
+08312017,Cairo,cairo,795196,Matareya,matareya,5826
+08312017,Cairo,cairo,795196,Mokattam,mokattam,14645
+08312017,Cairo,cairo,795196,Nasr City,nasr-city,85947
+08312017,Cairo,cairo,795196,New Cairo,new-cairo,75626
+08312017,Cairo,cairo,795196,Nozha,nozha,6111
+08312017,Cairo,cairo,795196,Obour City,obour-city,12159
+08312017,Cairo,cairo,795196,Qasr al-Nil,qasr-al-nil,2151
+08312017,Cairo,cairo,795196,Ramses + Ramses Extension,ramses-ramses-extension,2115
+08312017,Cairo,cairo,795196,Rehab City,rehab-city,17673
+08312017,Cairo,cairo,795196,Sahel,sahel,6313
+08312017,Cairo,cairo,795196,Salam City,salam-city,7614
+08312017,Cairo,cairo,795196,Sayeda Zeinab,sayeda-zeinab,2575
+08312017,Cairo,cairo,795196,Sheraton,sheraton,8255
+08312017,Cairo,cairo,795196,Shorouk City,shorouk-city,19797
+08312017,Cairo,cairo,795196,Shubra,shubra,12841
+08312017,Cairo,cairo,795196,Waili,waili,2926
+08312017,Cairo,cairo,795196,Zahraa Al Maadi,zahraa-al-maadi,4780
+08312017,Cairo,cairo,795196,Zamalek,zamalek,3494
+08312017,Cairo,cairo,795196,Zaytoun,zaytoun,8283
+08312017,Qalyubia,qalyubia,47641,Bahtim,bahtim,1408
+08312017,Qalyubia,qalyubia,47641,Banha,banha,6858
+08312017,Qalyubia,qalyubia,47641,El Ubour,el-ubour,14257
+08312017,Qalyubia,qalyubia,47641,Kafr Shukr,kafr-shukr,395
+08312017,Qalyubia,qalyubia,47641,Khanka,khanka,1907
+08312017,Qalyubia,qalyubia,47641,Khosous,khosous,3746
+08312017,Qalyubia,qalyubia,47641,Qaha,qaha,185
+08312017,Qalyubia,qalyubia,47641,Qalyub,qalyub,1757
+08312017,Qalyubia,qalyubia,47641,Qanater al-Khairia,qanater-al-khairia,2459
+08312017,Qalyubia,qalyubia,47641,Shebin al-Qanater,shebin-al-qanater,1325
+08312017,Qalyubia,qalyubia,47641,Shubra al-Khaimah,shubra-al-khaimah,10403
+08312017,Qalyubia,qalyubia,47641,Tookh,tookh,2941
+08312017,Monufia,monufia,17556,Ashmon,ashmon,687
+08312017,Monufia,monufia,17556,Bagour,bagour,1047
+08312017,Monufia,monufia,17556,Berket al-Sabaa,berket-al-sabaa,747
+08312017,Monufia,monufia,17556,Menouf,menouf,1358
+08312017,Monufia,monufia,17556,Quesna,quesna,1699
+08312017,Monufia,monufia,17556,Sadat,sadat,1663
+08312017,Monufia,monufia,17556,Sers al-Lyan,sers-al-lyan,284
+08312017,Monufia,monufia,17556,Shebin al-Koum,shebin-al-koum,7319
+08312017,Monufia,monufia,17556,Shohadaa,shohadaa,2272
+08312017,Monufia,monufia,17556,Tala,tala,480
+08312017,Minya,minya,8453,Abu Qurqas,abu-qurqas,328
+08312017,Minya,minya,8453,Adwa,adwa,171
+08312017,Minya,minya,8453,Beni Mazar,beni-mazar,400
+08312017,Minya,minya,8453,Deir Mawas,deir-mawas,81
+08312017,Minya,minya,8453,Maghagha,maghagha,379
+08312017,Minya,minya,8453,Malawi,malawi,695
+08312017,Minya,minya,8453,Matay,matay,250
+08312017,Minya,minya,8453,Minya City,minya-city,5040
+08312017,Minya,minya,8453,New Minya,new-minya,755
+08312017,Minya,minya,8453,Samalut,samalut,354
+08312017,New Valley,new-valley,396,Balat,balat,18
+08312017,New Valley,new-valley,396,Dakhla,dakhla,41
+08312017,New Valley,new-valley,396,Farafra,farafra,36
+08312017,New Valley,new-valley,396,Kharga,kharga,243
+08312017,New Valley,new-valley,396,Mut,mut,55
+08312017,New Valley,new-valley,396,Paris,paris,3
+08312017,Beni Suef,beni-suef,6709,Al Feshn,al-feshn,196
+08312017,Beni Suef,beni-suef,6709,Al Wasty,al-wasty,545
+08312017,Beni Suef,beni-suef,6709,Beba,beba,153
+08312017,Beni Suef,beni-suef,6709,Beni Suef City,beni-suef-city,3690
+08312017,Beni Suef,beni-suef,6709,Ehnasia,ehnasia,142
+08312017,Beni Suef,beni-suef,6709,Nasser,nasser,163
+08312017,Beni Suef,beni-suef,6709,New Beni Suef,new-beni-suef,1664
+08312017,Beni Suef,beni-suef,6709,Samasta,samasta,156
+08312017,Port Said,port-said,18679,Arab District,arab-district,490
+08312017,Port Said,port-said,18679,Dawahy District,dawahy-district,1714
+08312017,Port Said,port-said,18679,Ganoub District,ganoub-district,1283
+08312017,Port Said,port-said,18679,Manakh District,manakh-district,654
+08312017,Port Said,port-said,18679,Port Fouad,port-fouad,6273
+08312017,Port Said,port-said,18679,Sharq District,sharq-district,6789
+08312017,Port Said,port-said,18679,Zohour District,zohour-district,1476
+08312017,South Sinai,south-sinai,11172,Abu Rudeis,abu-rudeis,20
+08312017,South Sinai,south-sinai,11172,Abu Zenimah,abu-zenimah,29
+08312017,South Sinai,south-sinai,11172,Dahab,dahab,102
+08312017,South Sinai,south-sinai,11172,Nuweiba,nuweiba,28
+08312017,South Sinai,south-sinai,11172,Ras Sedr,ras-sedr,2834
+08312017,South Sinai,south-sinai,11172,Ras Sidr,ras-sidr,4801
+08312017,South Sinai,south-sinai,11172,Sharm al-Sheikh,sharm-al-sheikh,3078
+08312017,South Sinai,south-sinai,11172,St. Catherine,st-catherine,8
+08312017,South Sinai,south-sinai,11172,Taba,taba,13
+08312017,South Sinai,south-sinai,11172,Tor Sinai,tor-sinai,259
+08312017,Damietta,damietta,15124,Damietta City,damietta-city,7562
+08312017,Damietta,damietta,15124,Ezbet al-Burj,ezbet-al-burj,72
+08312017,Damietta,damietta,15124,Fareskour,fareskour,361
+08312017,Damietta,damietta,15124,Kafr Saad,kafr-saad,981
+08312017,Damietta,damietta,15124,Kafr al-Bateekh,kafr-al-bateekh,134
+08312017,Damietta,damietta,15124,Mit Abughalb,mit-abughalb,70
+08312017,Damietta,damietta,15124,New Damietta,new-damietta,4690
+08312017,Damietta,damietta,15124,Ras al-Bar,ras-al-bar,925
+08312017,Damietta,damietta,15124,Rodah,rodah,44
+08312017,Damietta,damietta,15124,Saro,saro,63
+08312017,Damietta,damietta,15124,Zarqa,zarqa,222
+08312017,Sohag,sohag,8032,Akhmim,akhmim,276
+08312017,Sohag,sohag,8032,Alasirat,alasirat,21
+08312017,Sohag,sohag,8032,Baliana,baliana,157
+08312017,Sohag,sohag,8032,Dar es-Salam,dar-es-salam,80
+08312017,Sohag,sohag,8032,Girga,girga,525
+08312017,Sohag,sohag,8032,Juhaynah,juhaynah,79
+08312017,Sohag,sohag,8032,Maragha,maragha,173
+08312017,Sohag,sohag,8032,Monsha'a,monsha-a,351
+08312017,Sohag,sohag,8032,Sakaltah,sakaltah,35
+08312017,Sohag,sohag,8032,Sohag City,sohag-city,5724
+08312017,Sohag,sohag,8032,Tahta,tahta,373
+08312017,Sohag,sohag,8032,Tama,tama,238
+08312017,North Sinai,north-sinai,619,Arish,arish,515
+08312017,North Sinai,north-sinai,619,Bir al-Abed,bir-al-abed,62
+08312017,North Sinai,north-sinai,619,Hasana,hasana,3
+08312017,North Sinai,north-sinai,619,Nakhl,nakhl,1
+08312017,North Sinai,north-sinai,619,Rafah,rafah,2
+08312017,North Sinai,north-sinai,619,Sheikh Zoweyd,sheikh-zoweyd,36
+08312017,Qena,qena,6093,Abu Tisht,abu-tisht,154
+08312017,Qena,qena,6093,Farshout,farshout,124
+08312017,Qena,qena,6093,Keft,keft,100
+08312017,Qena,qena,6093,Nag Hammadi,nag-hammadi,884
+08312017,Qena,qena,6093,Nakada,nakada,81
+08312017,Qena,qena,6093,Qena City,qena-city,4358
+08312017,Qena,qena,6093,Quos,quos,266
+08312017,Qena,qena,6093,Shna,shna,34
+08312017,Qena,qena,6093,Wakf,wakf,92
+08312017,Kafr al-Sheikh,kafr-al-sheikh,7329,Baltim,baltim,473
+08312017,Kafr al-Sheikh,kafr-al-sheikh,7329,Bella,bella,307
+08312017,Kafr al-Sheikh,kafr-al-sheikh,7329,Brolos,brolos,86
+08312017,Kafr al-Sheikh,kafr-al-sheikh,7329,Desouk,desouk,1016
+08312017,Kafr al-Sheikh,kafr-al-sheikh,7329,Fouh,fouh,132
+08312017,Kafr al-Sheikh,kafr-al-sheikh,7329,Hamoul,hamoul,343
+08312017,Kafr al-Sheikh,kafr-al-sheikh,7329,Kafr al-Sheikh City,kafr-al-sheikh-city,4306
+08312017,Kafr al-Sheikh,kafr-al-sheikh,7329,Motobas,motobas,118
+08312017,Kafr al-Sheikh,kafr-al-sheikh,7329,Qaleen,qaleen,190
+08312017,Kafr al-Sheikh,kafr-al-sheikh,7329,Riyadh,riyadh,176
+08312017,Kafr al-Sheikh,kafr-al-sheikh,7329,Sidi Salem,sidi-salem,182
+08312017,Matruh,matruh,84333,Alamein,alamein,2423
+08312017,Matruh,matruh,84333,Barany,barany,8
+08312017,Matruh,matruh,84333,Dabaa,dabaa,52
+08312017,Matruh,matruh,84333,Hammam,hammam,380
+08312017,Matruh,matruh,84333,Marina El Alamein,marina-el-alamein,1922
+08312017,Matruh,matruh,84333,Marsa Matrouh,marsa-matrouh,8777
+08312017,Matruh,matruh,84333,Nagela,nagela,100
+08312017,Matruh,matruh,84333,North Coast,north-coast,70546
+08312017,Matruh,matruh,84333,Salloum,salloum,5
+08312017,Matruh,matruh,84333,Siwa,siwa,120
