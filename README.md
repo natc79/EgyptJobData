@@ -10,7 +10,7 @@ Exports scraped data pages to csv with minimal data cleaning
 
 #### analyze_Wuzzuf
 
-Cleans the scraped dataset to turn it into a dataset that is more analyzable
+Cleans the scraped dataset to turn it into a dataset that is ready for analysis.  This dataset also performs some basic tagging of words to identify the key skills in demand associated with various occupations.  It is visualized through word clouds.
 
 #### scrape_OLX
 
@@ -22,4 +22,4 @@ Exports scraped data pages to csv file.  The first part focuses simply on gettin
 
 2. Automating the scheduling of downloads to occur at least once per month.
 
-3. Tracking time length that job ad vacancies are posted.  Challenge is that there could re-advertisements of postings if the employer cannot find prospective candidates within the time length that the advertisement is valid.
+3. Tracking time length that job ad vacancies are posted.  Challenge is that there could be re-advertisements of postings if the employer cannot find prospective candidates within the time length that the advertisement is valid.
