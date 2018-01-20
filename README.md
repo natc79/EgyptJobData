@@ -17,7 +17,7 @@ As the data being gathered are being stored in an SQLite database the user shoul
 
 ### Step 2
 
-The main code that scrapes the websites is scrape_Wuzzuf_cloudv2.py and analyze_Wuzzuf_cloudv2.py.  This code is designed to scrape the websites at daily intervals through a UNIX/LINUX based system where you set a crontab that runs the code once daily.  The code scrapes each page on day 1, and at weekly intervals thereafter until the job ad expires or ceases to exist.  This allows for some moderate tracking of job ad views on OLX.com and applications to different job ads on the Wuzzuf site over time.
+The main code that scrapes the websites is scrapeEgyptOLX_cloudv2.py and scrapeWuzzuf_cloudv2.py.  This code is designed to scrape the websites at daily intervals through a UNIX/LINUX based system where you set a crontab that runs the code once daily.  The code scrapes each page on day 1, and at weekly intervals thereafter until the job ad expires or ceases to exist.  This allows for some moderate tracking of job ad views on OLX.com and applications to different job ads on the Wuzzuf site over time.
 
 ## Analysis
 
