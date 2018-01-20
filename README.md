@@ -2,7 +2,7 @@
 
 This repository scrapes several job websites in Egypt to gather information on labor market demands.  This information is potentially useful for tracking occupational trends over time, informing educational investments and the design of curriculums that can help improve labor market outcomes in Egypt.  
 
-## Background and Problem Statement
+## Background
 
 In Egypt and many developing countries the data that is available to policy makers and to individuals to understand how and where to invest in their education is limited.  Having this information is especially critical in an environment where it is estimated that nearly three-quarters of the the people of working age were out of the labor force, unemployed, informally employed or not-well matched their jobs in 2014 based on the Egypt Labour Force Survey.  Unemployment is particularly severe among many university graduates and even those with STEM type degrees.  Among the university educated population, unemployment stood at over 20 percent of the population for most degrees with the exception of medical.  This could be reflective of an education system that has faced challenges in developing the critical skills that graduates need to be successful in the labor market.
 
