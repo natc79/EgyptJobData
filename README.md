@@ -25,13 +25,13 @@ The data being gathered is intended to be stored in a SQLite database.  As a res
 
 ### Step 2
 
-The main code that scrapes the websites is scrapeEgyptOLX_cloudv2.py and scrapeWuzzuf_cloudv2.py.  This code is designed to scrape the websites at daily intervals through a UNIX/LINUX based system where you set a crontab that runs the code once daily.  The code scrapes each page on day 1, and at weekly intervals thereafter until the job ad expires or ceases to exist.  This allows for some moderate tracking of job ad views on OLX.com and applications to different job ads on the Wuzzuf site over time.
+The code that scrapes the websites are contained in scrapeEgyptOLX_cloudv2.py and scrapeWuzzuf_cloudv2.py.  The code is designed to scrape the websites at daily intervals through a UNIX/LINUX based system where you set a crontab that runs the code once daily.  The code scrapes each page on day 1, and at weekly intervals thereafter until the job ad expires or ceases to exist.  This allows for some moderate tracking of job ad views on OLX.com and applications to different job ads on the Wuzzuf site over time.
 
 ## Analysis
 
 ### analyzeOLX_v2.py
 
-This code draws in the data from the SQL database and does some basic cleaning and translation from Arabic to English using googletrans.  At the moment it simply outputs key summary statistics by job sector such as the share of managerial versus entry level jobs, whether a bachelor's education is desired, and whether the job is full-time based on the processing of the data.  The analysis is not yet optimized to take advantage of the potential time series nature of the dataset.
+This code draws in the data from the SQL database and does some basic cleaning and translation from Arabic to English using googletrans.  At the moment it simply outputs key summary statistics by job sector such as the share of managerial versus entry level jobs, whether a bachelor's education is desired, and whether the job is full-time based on the processing of the data.  The analysis is not yet optimized to take advantage of the potential time series nature of the dataset or the description content that might allow for highlighting of the skills in demand.
 
 ### analyzeWuzzuf_v2.py
 
