@@ -17,7 +17,7 @@ OLX.com contains nearly 130K job ads at any given time with around one-third of 
 
 Wuzzuf.net is a job platform that is targeted at export oriented jobs and jobs in foreign companies.  It contains about 5K job ads at any given time with job ads typically expiring after 30 days.  Most job ads are listed in English.  The Wuzzuf is a professionalized platform where employers with job vacancies fill in many details about the job requirements and desired qualifications and skills needed for the job and where job seekers can upload resumes and apply directly for the various vacancies through the website.  As a result, it does allow tracking of applications, number of resumes reviewed and number of shortlisted candidates that apply to the job ads over time.  The geographic scope is currently primarily limited to greater Cairo and Alexandria.  While the scope of these jobs are more limited they provide a picture of the skill and educational requirements that are desired for some of the top private and non-governmental sector jobs in Egypt.
 
-## Installation instructions
+## Installation Instructions
 
 ### Step 1
 
