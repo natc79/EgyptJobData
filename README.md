@@ -35,7 +35,7 @@ This code draws in the data from the SQL database and does some basic cleaning a
 
 ### analyzeWuzzuf_v2.py
 
-This code cleans the Wuzzuf data that is stored in the SQL database to turn it into a dataset that is ready for basic analysis.  This dataset also performs some basic tagging of words to identify the key skills in demand associated with various occupations by throwing out various stop words.  Skill demands are initially visualized through word clouds (see AnalyzeWuzzuf.py).
+This code cleans the Wuzzuf data that is stored in the SQL database to turn it into a dataset that is ready for basic analysis.  This dataset also performs some basic tagging of words to identify the key skills in demand associated with various occupations by cleaning the job requirements section to focus on key words that associated with skills and qualifications.  Skill and qualification demands are initially visualized through word clouds (see AnalyzeWuzzuf.py).
 
 ## Future Improvements
 
