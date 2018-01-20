@@ -21,11 +21,11 @@ The main code that scrapes the websites is scrape_Wuzzuf_cloudv2.py and analyze_
 
 ## Analysis
 
-# analyze_OLX.py
+### analyze_OLX.py
 
 This code draws in the data from the SQL database and does some basic cleaning and translation from Arabic to English using googletrans.  At the moment it simply outputs some key summary statistics by job sector such as the share of managerial versus entry level jobs, whether a bachelor's education is desired, and whether the job is full-time based on the processing of the data.  The analysis is not yet optimized to take advantage of the potential time series nature of the dataset.
 
-# analyze_wuzzuf.py
+### analyze_wuzzuf.py
 
 Cleans the scraped dataset to turn it into a dataset that is ready for analysis.  This dataset also performs some basic tagging of words to identify the key skills in demand associated with various occupations.  It is visualized through word clouds.  Initial findings show that many of 
 
